@@ -29,3 +29,7 @@ xai-credentials.json*
 
 # dev-fresh launcher scratch (fresh-user sim): disposable per launch
 .fresh-data/
+
+# OpenMemory - IDE/Assistant specific rules
+.cursor\rules\openmemory.mdc
+AGENTS.md
